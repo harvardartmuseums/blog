@@ -4,7 +4,7 @@ title: "Site refresh: harvardartmuseums.org"
 categories: refresh
 ---
 
-Starting off fresh in 2023, we have a new website! The new site has much in common as far as design is concerned with the previous iteration, but many updates and rewrites under the hood bring the codebase up to date with more modern and stable web standards.
+Starting off fresh in 2023, we have a refreshed website! The site still looks and feels familiar but has many updates and rewrites under the hood bring the codebase up to date with more modern and stable web standards.
 
 The goal of this refresh was threefold: to improve accessibility, improve usability, and set the stage for more rapid development by modernizing the technology that drives the site.
 
