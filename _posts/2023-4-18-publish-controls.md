@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tour Builder Publish Controls"
-date:   2023-04-18 18:00:00 -0400
+date:   2023-04-18 12:00:00 -0400
 categories: features
 ---
 
