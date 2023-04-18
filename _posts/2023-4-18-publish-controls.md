@@ -9,7 +9,7 @@ categories: features
 
 ## New Publication Controls for Tour Builder Slides and Stops  
 
-![A screenshot from the Tour Builder application with a new select menu (left) and toggle switch (right) highlighted with green arrows]](/images/2023/tour_publication_controls.png)
+![A screenshot from the Tour Builder application with a new select menu (left) and toggle switch (right) highlighted with green arrows](/images/2023/tour_publication_controls.png)
 
 Publication controls are now available for Stops and Slides. New Stops and Slides are “Published” by default but users can also set them to “Hidden.”
 
